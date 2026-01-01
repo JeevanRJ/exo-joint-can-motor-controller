@@ -33,7 +33,7 @@ University of Wisconsin–Madison
 ### Required repo files
 These files must be present together for compilation:
 
-- `motor_with_FSR2.ino`  
+- `motor_control_for_exo_joints.ino`  
   Main Arduino sketch (setup + loop).
 
 - `RMDX.h`  
@@ -162,10 +162,4 @@ Because different RMD‑X setups use different control modes, this repo intentio
 
 MIT License (see `LICENSE`).
 
----
 
-## Citation / Attribution (optional)
-
-If you use or adapt this code in academic work, please acknowledge:
-
-Jeevan Jayasuriya, NeuroErgonomics Lab, University of Wisconsin–Madison
