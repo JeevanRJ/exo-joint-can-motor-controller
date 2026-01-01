@@ -35,9 +35,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Linux
-*~
-.nfs*
 
 # Logs
 *.log
