@@ -1,0 +1,51 @@
+# Arduino / Embedded
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+*.lst
+*.sym
+
+# Arduino IDE
+*.ino~
+*.pde~
+.sketch.json
+.build/
+build/
+Arduino15/
+*.tmp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.old
+
+# Temporary files
+*.swp
+*.swo
