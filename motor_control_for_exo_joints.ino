@@ -17,8 +17,8 @@ RMDX motor(&can); // Create the motor
 
 int fsr_1_AnalogPin = 0; // FSR is connected to analog 0
 int fsr_2_AnalogPin = 1; // FSR is connected to analog 0
-int fsr_1_Reading;      // the analog reading from the FSR resistor divider
-int fsr_2_Reading;      // the analog reading from the FSR resistor divider
+int fsr_1_Reading;      // the analog reading from FSR resistor divider
+int fsr_2_Reading;      // the analog reading from FSR resistor divider
 int fsr_1_Reading_raw;  
 int fsr_2_Reading_raw;  
 double Pos_current;
